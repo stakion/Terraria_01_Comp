@@ -1,0 +1,97 @@
+﻿Game,Difficulty,Event,Name Boss,Life,Average Defense,Damage Reduction,Average Damage
+Terraria,Normal,Boss,King Slime,2000,10,5,40
+Terraria,Expert,Boss,King Slime,2800,10,5,64
+Terraria,Master,Boss,King Slime,3570,10,5,96
+Terraria,Normal,Boss,Eye of Cthulhu,2800,10,5,15
+Terraria,Expert,Boss,Eye of Cthulhu,3640,10,5,30
+Terraria,Master,Boss,Eye of Cthulhu,4641,10,5,45
+Terraria,Normal,Boss,Eater of Worlds,10050,4.67,2.34,12
+Terraria,Expert,Boss,Eater of Worlds,15120,6.67,3.34,28.33
+Terraria,Master,Boss,Eater of Worlds,19224,6.67,3.34,43
+Terraria,Normal,Boss,Brain of Cthulhu,1250,14,7,30
+Terraria,Expert,Boss,Brain of Cthulhu,2125,14,7,54
+Terraria,Master,Boss,Brain of Cthulhu,2709,14,7,81
+Terraria,Normal,Boss,Queen Bee,3400,8,4,26
+Terraria,Expert,Boss,Queen Bee,4760,18,9,49
+Terraria,Master,Boss,Queen Bee,6069,18,9,73.5
+Terraria,Normal,Boss,Skeletron,4400,10,5,32
+Terraria,Expert,Boss,Skeletron,8800,18.5,9.25,70
+Terraria,Master,Boss,Skeletron,11220,18.5,9.25,105
+Terraria,Normal,Boss,Skeletron Hand,600,14,7,20
+Terraria,Expert,Boss,Skeletron Hand,1560,14,7,44
+Terraria,Master,Boss,Skeletron Hand,1989,14,7,66
+Terraria,Normal,Boss,Deerclops,7000,10,5,27.33
+Terraria,Expert,Boss,Deerclops,11900,10,5,54.67
+Terraria,Master,Boss,Deerclops,15172,10,5,82
+Terraria,Normal,Boss,Wall of Flesh,8000,12,6,50
+Terraria,Expert,Boss,Wall of Flesh,11200,18,9,150
+Terraria,Master,Boss,Wall of Flesh,14280,18,9,225
+Terraria,Normal,Boss,Queen Slime,18000,26,13,70
+Terraria,Expert,Boss,Queen Slime,28800,26,13,140
+Terraria,Master,Boss,Queen Slime,36720,26,13,210
+Terraria,Normal,Boss,Retinazer First Form,20000,10,5,42.5
+Terraria,Expert,Boss,Retinazer First Form,30000,10,5,76
+Terraria,Master,Boss,Retinazer First Form,38250,10,5,114
+Terraria,Normal,Boss,Retinazer Second Form,8000,20,10,51
+Terraria,Expert,Boss,Retinazer Second Form,12000,20,10,91.33
+Terraria,Master,Boss,Retinazer Second Form,15300,20,10,137
+Terraria,Normal,Boss,Spazmatism First Form,23000,10,5,50
+Terraria,Expert,Boss,Spazmatism First Form,34500,10,5,86.5
+Terraria,Master,Boss,Spazmatism First Form,43987,10,5,129.5
+Terraria,Normal,Boss,Spazmatism Second Form,9200,28,14,67.5
+Terraria,Expert,Boss,Spazmatism Second Form,13800,28,14,117.5
+Terraria,Master,Boss,Spazmatism Second Form,17594,28,14,176
+Terraria,Normal,Boss,The Destroyer,80000,30,15,52.25
+Terraria,Expert,Boss,The Destroyer,120000,30,15,128.25
+Terraria,Master,Boss,The Destroyer,153000,30,15,192.5
+Terraria,Normal,Boss,Skeletron Prime,28000,36,18,70.5
+Terraria,Expert,Boss,Skeletron Prime,42000,36,18,118.5
+Terraria,Master,Boss,Skeletron Prime,53550,36,18,178.5
+Terraria,Normal,Boss,Prime Cannon,7000,23,11.5,55
+Terraria,Expert,Boss,Prime Cannon,10500,23,11.5,100.5
+Terraria,Master,Boss,Prime Cannon,13387,23,11.5,158
+Terraria,Normal,Boss,Prime Saw,9000,38,19,56
+Terraria,Expert,Boss,Prime Saw,13500,38,19,95
+Terraria,Master,Boss,Prime Saw,17212,38,19,142
+Terraria,Normal,Boss,Prime Vice,9000,34,17,50
+Terraria,Expert,Boss,Prime Vice,13500,34,17,88
+Terraria,Master,Boss,Prime Vice,17212,34,17,132
+Terraria,Normal,Boss,Prime Laser,6000,20,10,39.5
+Terraria,Expert,Boss,Prime Laser,9000,20,10,74.5
+Terraria,Master,Boss,Prime Laser,11475,20,10,111.5
+Terraria,Normal,Boss,Mechdusa,273000,10,5,
+Terraria,Expert,Boss,Mechdusa,348073,10,5,
+Terraria,Master,Boss,Mechdusa,530073,10,5,
+Terraria,Normal,Boss,Plantera,30000,36,18,52.5
+Terraria,Expert,Boss,Plantera,42000,36,18,95
+Terraria,Master,Boss,Plantera,53550,36,18,142.5
+Terraria,Normal,Boss,Golem Head - First Form,25000,20,10,52.67
+Terraria,Expert,Boss,Golem Head - First Form,37500,20,10,96.67
+Terraria,Master,Boss,Golem Head - First Form,47812,20,10,145
+Terraria,Normal,Boss,Golem Fist - First Form,10000,28,14,59
+Terraria,Expert,Boss,Golem Fist - First Form,15000,28,14,94
+Terraria,Master,Boss,Golem Fist - First Form,19125,28,14,141
+Terraria,Normal,Boss,Golem - Second Form,15000,26,13,72
+Terraria,Expert,Boss,Golem - Second Form,22500,26,13,115
+Terraria,Master,Boss,Golem - Second Form,28687,26,13,172
+Terraria,Normal,Boss,Golem Head - Second Form,16000,32,16,80
+Terraria,Expert,Boss,Golem Head - Second Form,24000,32,16,128
+Terraria,Master,Boss,Golem Head - Second Form,30600,32,16,192
+Terraria,Normal,Boss,Duke Fishron - First Form,60000,75,37.5,120
+Terraria,Expert,Boss,Duke Fishron - First Form,78000,75,37.5,167.5
+Terraria,Master,Boss,Duke Fishron - First Form,99000,75,37.5,251.25
+Terraria,Normal,Boss,Empress of Light,70000,50,25,96.67
+Terraria,Expert,Boss,Empress of Light,98000,50,25,129.17
+Terraria,Master,Boss,Empress of Light,124950,50,25,193.83
+Terraria,Normal,Boss,Lunatic Cultist,32000,34.5,17.25,64.5
+Terraria,Expert,Boss,Lunatic Cultist,48000,34.5,17.25,104
+Terraria,Master,Boss,Lunatic Cultist,61000,34.5,17.25,139.13
+Terraria,Normal,Boss,Moon Lord,45000,50,25,105
+Terraria,Expert,Boss,Moon Lord,67500,50,25,210
+Terraria,Master,Boss,Moon Lord,86062,50,25,315
+Terraria,Normal,Boss,Moon Lords Hand,25000,40,20,70
+Terraria,Expert,Boss,Moon Lords Hand,37500,40,20,120
+Terraria,Master,Boss,Moon Lords Hand,47812,40,20,170
+Terraria,Normal,Boss,Moon Lords Core,50000,70,35,0
+Terraria,Expert,Boss,Moon Lords Core,75000,70,35,0
+Terraria,Master,Boss,Moon Lords Core,95625,70,35,0
